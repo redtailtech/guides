@@ -219,6 +219,11 @@ HTML
 CSS
 ---
 
+* Document the project's CSS architecture, including things such as:
+  * Organization of stylesheet directories and Sass partials
+  * Selector naming
+  * Browser support
+  * Code linting
 * Use Sass.
 * Use [Autoprefixer][autoprefixer] to generate vendor prefixes based on the
   project-specific browser support that is needed.
